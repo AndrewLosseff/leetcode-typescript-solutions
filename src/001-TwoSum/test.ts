@@ -1,3 +1,4 @@
+// To run test use this:
 // yarn jest src/001-TwoSum --watch
 import { twoSum } from './index'
 
