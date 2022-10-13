@@ -10,5 +10,5 @@ This is a companion repository for this course
 
 ## List of problems 
 
- // Add list of solved problems
+ - 001 Two Sum https://leetcode.com/problems/two-sum/
  
