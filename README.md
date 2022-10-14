@@ -16,4 +16,5 @@ Solved 4 out of 150
  - 125 Valid Palindrome https://leetcode.com/problems/valid-palindrome/
  - 217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
  - 242 Valid Anagram https://leetcode.com/problems/valid-anagram/
+ - 704 Binary Search https://leetcode.com/problems/binary-search/
  
