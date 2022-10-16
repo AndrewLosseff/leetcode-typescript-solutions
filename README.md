@@ -6,6 +6,11 @@ This is a companion repository for this course
 
 ## How to use this repo
 
+There are three tracks 
+- The core 18 problems, mostly easy level
+- Blind 75 problems, mostly easy and medium level
+- Cracking 150 problems, all levels
+
 // Add How to
 
 ## List of problems 
