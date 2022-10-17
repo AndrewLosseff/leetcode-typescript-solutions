@@ -15,6 +15,6 @@ test('nums = [-1,0,3,5,9,12], target = 2', () => {
     expect(search([-1,0,3,5,9,12], 2)).toEqual(-1)
 });
 
-test('nums = [-1,0,3,5,9,12,2], target = 2', () => {
-  expect(search([-1,0,3,5,9,12], 2)).toEqual(7)
+test('nums = [-1,0,3,5,9,12,14], target = 2', () => {
+  expect(search([-1,0,3,5,9,12,14], 14)).toEqual(6)
 });
