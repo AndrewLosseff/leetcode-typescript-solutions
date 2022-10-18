@@ -1,13 +1,10 @@
-// Definition for singly-linked list.
-class ListNode {
-    val: number
-    next: ListNode | null
-    constructor(val?: number, next?: ListNode | null) {
-        this.val = (val===undefined ? 0 : val)
-        this.next = (next===undefined ? null : next)
-    }
-}
+import { ListNode, arrayToList } from "../utils/ConvertArrayToLinkedList";
 
-export function getDecimalValue(head: ListNode | null): number {
-    
+export function getDecimalValue(arr): number {
+    // Helper function to convert arr to Linkes List
+    const head: ListNode | null = arrayToList(arr)
+    // Solution to the problem
+
+
+
 };
