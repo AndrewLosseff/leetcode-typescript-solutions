@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/125-ValidPalindrome --watch
+// yarn jest src/0125-ValidPalindrome --watch
 import { isPalindrome } from './index'
 
 test('Valid Palindrome function exists', () => {

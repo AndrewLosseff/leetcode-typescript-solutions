@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/075-SortColors --watch
+// yarn jest src/0075-SortColors --watch
 import { sortColors } from './index'
 
 test('Sort Colors function exists', () => {

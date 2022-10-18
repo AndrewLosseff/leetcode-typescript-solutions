@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/242-ValidAnagram --watch
+// yarn jest src/0242-ValidAnagram --watch
 
 import { isAnagram } from './index'
 

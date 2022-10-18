@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/704-BinarySearch --watch
+// yarn jest src/0704-BinarySearch --watch
 
 import { search } from './index'
 

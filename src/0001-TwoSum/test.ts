@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/001-TwoSum --watch
+// yarn jest src/0001-TwoSum --watch
 import { twoSum } from './index'
 
 test('Two Sum function exists', () => {

@@ -17,10 +17,10 @@ There are three tracks
 
 Solved 4 out of 150
 
- - 001 Two Sum https://leetcode.com/problems/two-sum/
- - 075 Sort Colors https://leetcode.com/problems/sort-colors/
- - 125 Valid Palindrome https://leetcode.com/problems/valid-palindrome/
- - 217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
- - 242 Valid Anagram https://leetcode.com/problems/valid-anagram/
- - 704 Binary Search https://leetcode.com/problems/binary-search/
+ - 0001 Two Sum https://leetcode.com/problems/two-sum/
+ - 0075 Sort Colors https://leetcode.com/problems/sort-colors/
+ - 0125 Valid Palindrome https://leetcode.com/problems/valid-palindrome/
+ - 0217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
+ - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram/
+ - 0704 Binary Search https://leetcode.com/problems/binary-search/
  

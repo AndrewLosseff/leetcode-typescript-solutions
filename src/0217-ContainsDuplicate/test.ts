@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/217-ContainsDuplicate --watch
+// yarn jest src/0217-ContainsDuplicate --watch
 import { containsDuplicate } from './index'
 
 test('Contains Duplicate', () => {
