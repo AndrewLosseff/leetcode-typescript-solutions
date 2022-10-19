@@ -5,6 +5,4 @@ export function getDecimalValue(arr): number {
     const head: ListNode | null = arrayToList(arr)
     // Solution to the problem
 
-
-
 };

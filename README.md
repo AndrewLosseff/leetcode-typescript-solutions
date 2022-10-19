@@ -23,4 +23,5 @@ Solved 4 out of 150
  - 0217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
  - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram/
  - 0704 Binary Search https://leetcode.com/problems/binary-search/
+ - 1290 Convert Binary Number in a Linked List to Integer https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
  
