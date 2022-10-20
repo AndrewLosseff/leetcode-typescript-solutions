@@ -17,3 +17,7 @@ test('"LVIII"', () => {
 test('"MCMXCIV"', () => {
   expect(romanToInt("MCMXCIV")).toEqual(1994);
 });
+
+test('"IX"', () => {
+  expect(romanToInt("IX")).toEqual(9);
+});
