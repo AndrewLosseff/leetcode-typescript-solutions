@@ -15,7 +15,7 @@ There are three tracks
 
 ## List of problems 
 
-Solved 4 out of 150
+Solved 8 out of 300+
 
  - 0001 Two Sum https://leetcode.com/problems/two-sum/
  - 0075 Sort Colors https://leetcode.com/problems/sort-colors/
