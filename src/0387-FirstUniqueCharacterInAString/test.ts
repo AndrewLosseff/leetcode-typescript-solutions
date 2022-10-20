@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/387-FirstUniqueCharacterInAString --watch
+// yarn jest src/0387-FirstUniqueCharacterInAString --watch
 
 import { firstUniqChar } from './index'
 
