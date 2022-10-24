@@ -23,7 +23,7 @@ Solved 8 out of 300+
  - 0075 Sort Colors https://leetcode.com/problems/sort-colors/
  - 0121 Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
  - 0125 Valid Palindrome https://leetcode.com/problems/valid-palindrome/
- - 0206 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/
+ - 0206 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/ TODO: add recursive solution
  - 0217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
  - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram/
  - 0387 First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/
