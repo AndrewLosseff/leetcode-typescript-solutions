@@ -29,4 +29,5 @@ Solved 8 out of 300+
  - 0387 First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/
  - 0704 Binary Search https://leetcode.com/problems/binary-search/
  - 1290 Convert Binary Number in a Linked List to Integer https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
- - 1299 Replace Elements with Greatest Element on Right Side https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+ - 1299 Replace Elements with Greatest Element on Right Side https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/ TODO: Solve the problem
+ 
