@@ -36,5 +36,5 @@ Solved 8 out of 300+
  - 0509 Fibonacci Number https://leetcode.com/problems/fibonacci-number/
  - 0704 Binary Search https://leetcode.com/problems/binary-search/
  - 1290 Convert Binary Number in a Linked List to Integer https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
- - 1299 Replace Elements with Greatest Element on Right Side https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/ TODO: Solve the problem
+ - 1299 Replace Elements with Greatest Element on Right Side https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/ 
  
