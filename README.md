@@ -31,6 +31,7 @@ Solved 8 out of 300+
  - 0203 Remove Linked List Elements https://leetcode.com/problems/remove-linked-list-elements/ TODO: Solve the problem
  - 0206 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/
  - 0217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
+ - 0234 Palindrome Linked List https://leetcode.com/problems/palindrome-linked-list/
  - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram/
  - 0387 First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/
  - 0392 Is Subsequence https://leetcode.com/problems/is-subsequence/
