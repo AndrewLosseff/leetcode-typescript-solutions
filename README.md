@@ -9,13 +9,11 @@ This is a companion repository for this course
 There are three tracks 
 - The core 18 problems, mostly easy level
 - Blind 75 problems, mostly easy and medium level
-- Cracking 150 problems, all levels
+- Cracking 300 problems, all levels
 
 // Add How to
 
 ## List of problems 
-
-Solved 8 out of 300+
 
  - 0001 Two Sum https://leetcode.com/problems/two-sum/
  - 0013 Roman to Integer https://leetcode.com/problems/roman-to-integer/
@@ -26,6 +24,7 @@ Solved 8 out of 300+
  - 0058 Length of Last Word https://leetcode.com/problems/length-of-last-word/
  - 0070 Climbing Stairs https://leetcode.com/problems/climbing-stairs/ TODO: Solve the problem
  - 0075 Sort Colors https://leetcode.com/problems/sort-colors/
+ - 0088 Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/
  - 0121 Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
  - 0125 Valid Palindrome https://leetcode.com/problems/valid-palindrome/
  - 0203 Remove Linked List Elements https://leetcode.com/problems/remove-linked-list-elements/ TODO: Solve the problem
