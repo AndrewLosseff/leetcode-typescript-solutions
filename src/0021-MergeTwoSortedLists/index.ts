@@ -7,7 +7,7 @@ export function mergeTwoLists(arr1, arr2): number[] {
     const list2: ListNode | null = arrayToList(arr2)
     // Solution to the problem
 
-    
 
+    // return results into the convertLinkedListToArray func
     // return convertLinkedListToArray()
 };
