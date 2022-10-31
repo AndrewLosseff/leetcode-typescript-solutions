@@ -9,13 +9,11 @@ This is a companion repository for this course
 There are three tracks 
 - The core 18 problems, mostly easy level
 - Blind 75 problems, mostly easy and medium level
-- Cracking 150 problems, all levels
+- Cracking 300 problems, all levels
 
 // Add How to
 
 ## List of problems 
-
-Solved 8 out of 300+
 
  - 0001 Two Sum https://leetcode.com/problems/two-sum/
  - 0013 Roman to Integer https://leetcode.com/problems/roman-to-integer/

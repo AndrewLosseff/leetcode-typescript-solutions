@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/0075-SortColors --watch
+// yarn jest src/0088-MergeSortedArray --watch
 import { merge } from './index'
 
 test('Merge Sorted Array', () => {
