@@ -32,6 +32,7 @@ There are three tracks
  - 0217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
  - 0234 Palindrome Linked List https://leetcode.com/problems/palindrome-linked-list/
  - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram/
+ - 0283 Move Zeroes https://leetcode.com/problems/move-zeroes/
  - 0344 Reverse String https://leetcode.com/problems/reverse-string/
  - 0387 First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/
  - 0392 Is Subsequence https://leetcode.com/problems/is-subsequence/
