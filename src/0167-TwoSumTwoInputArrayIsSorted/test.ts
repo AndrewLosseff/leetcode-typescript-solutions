@@ -17,3 +17,7 @@ test('numbers = [2,3,4], target = 6', () => {
 test('numbers = [-1,0], target = -1', () => {
   expect(twoSum([-1,0], -1)).toEqual([1,2]);
 });
+
+test('numbers = [-1, 6, 7, 10, 11, 15], target = 9', () => {
+  expect(twoSum([-1, 6, 7, 10, 11, 15], 9)).toEqual([0,3]);
+});
