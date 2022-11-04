@@ -21,7 +21,7 @@ There are three tracks
  - 0021 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/ TODO: Solve the problem with recursion
  - 0026 Remove Duplicates from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  - 0027 Remove Element https://leetcode.com/problems/remove-element/
- - 0049 Group Anagrams https://leetcode.com/problems/group-anagrams/ TODO: Solve the problem
+ - 0049 Group Anagrams https://leetcode.com/problems/group-anagrams/
  - 0058 Length of Last Word https://leetcode.com/problems/length-of-last-word/
  - 0070 Climbing Stairs https://leetcode.com/problems/climbing-stairs/ TODO: Solve the problem
  - 0075 Sort Colors https://leetcode.com/problems/sort-colors/
