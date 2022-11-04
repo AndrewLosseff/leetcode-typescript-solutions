@@ -7,7 +7,7 @@ test('Group Anagrams', () => {
 });
 
 test('["eat","tea","tan","ate","nat","bat"]', () => {
-  expect(groupAnagrams(["eat","tea","tan","ate","nat","bat"])).toEqual([["bat"],["nat","tan"],["ate","eat","tea"]]);
+  expect(groupAnagrams(["eat","tea","tan","ate","nat","bat"])).toEqual([ [ 'eat', 'tea', 'ate' ], [ 'tan', 'nat' ], [ 'bat' ] ]);
 });
 
 test('[""]', () => {
