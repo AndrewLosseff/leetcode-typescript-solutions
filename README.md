@@ -26,6 +26,7 @@ Difficulty level:
  - ⭕️ 0021 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
  - 0026 Remove Duplicates from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  - 0027 Remove Element https://leetcode.com/problems/remove-element/
+ - ⭕️🔴 0041 First Missing Positive https://leetcode.com/problems/first-missing-positive/
  - 0049 Group Anagrams https://leetcode.com/problems/group-anagrams/
  - 0058 Length of Last Word https://leetcode.com/problems/length-of-last-word/
  - ⭕️ 0070 Climbing Stairs https://leetcode.com/problems/climbing-stairs/
