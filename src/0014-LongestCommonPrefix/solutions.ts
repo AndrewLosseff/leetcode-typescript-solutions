@@ -22,3 +22,20 @@ export function longestCommonPrefix(strs: string[]): string {
 
     return commonPrefix
 };
+
+// #1 Time: O(n log n) Space: O(1)
+export function longestCommonPrefix(strs: string[]): string {
+    strs.sort()
+    let prefix = ''
+  
+    for (let i = 0; i < strs[0].length; i++) {
+      const firstPrefixElement = strs[0][i];
+      const lastPrefixElement = strs[strs.length -1][i]
+  
+      if(firstPrefixElement === lastPrefixElement) prefix += firstPrefixElement
+      else break   
+    }
+  
+    return prefix
+  
+  };
