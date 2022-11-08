@@ -2,7 +2,7 @@
 
 ## About
 
-This is a companion repository for this course
+This is a companion repository for this playlist https://www.youtube.com/watch?v=NdLSLR7zrXw&list=PLXjwMrEcNKKf9iCfHwWHoKlBF5Ct64FF-
 
 ## How to use this repo
 
