@@ -44,6 +44,7 @@ Difficulty level:
  - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram/
  - 0283 Move Zeroes https://leetcode.com/problems/move-zeroes/
  - 0344 Reverse String https://leetcode.com/problems/reverse-string/
+ - ⭕️🟠 0347 Top K Frequent Elements https://leetcode.com/problems/top-k-frequent-elements/
  - 0387 First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/
  - 0392 Is Subsequence https://leetcode.com/problems/is-subsequence/
  - 0509 Fibonacci Number https://leetcode.com/problems/fibonacci-number/
