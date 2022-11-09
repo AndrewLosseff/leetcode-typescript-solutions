@@ -22,7 +22,7 @@ Difficulty level:
 
  - 0001 Two Sum https://leetcode.com/problems/two-sum/
  - 0013 Roman to Integer https://leetcode.com/problems/roman-to-integer/
- - 🟢 0014 Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
+ - 📺🟢 0014 Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
  - ⭕️ 0021 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
  - 0026 Remove Duplicates from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  - 0027 Remove Element https://leetcode.com/problems/remove-element/
