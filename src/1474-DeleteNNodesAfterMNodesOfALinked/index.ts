@@ -1,10 +1,9 @@
 import { ListNode, arrayToList } from "../utils/ConvertArrayToLinkedList";
 import { convertLinkedListToArray } from "../utils/ConvertLinkedListToArray";
 
-export function mergeTwoLists(arr1, arr2): number[] {
+export function deleteNodes(arr, m, n): number[] {
     // Helper function to convert arr to Linkes List
-    const list1: ListNode | null = arrayToList(arr1)
-    const list2: ListNode | null = arrayToList(arr2)
+    const head: ListNode | null = arrayToList(arr)
     // Solution to the problem
 
 
