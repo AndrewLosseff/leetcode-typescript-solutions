@@ -27,7 +27,7 @@ Solved 8 out of 300+
  - 0075 Sort Colors https://leetcode.com/problems/sort-colors/
  - 0121 Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
  - 0125 Valid Palindrome https://leetcode.com/problems/valid-palindrome/
- - 0203 Remove Linked List Elements https://leetcode.com/problems/remove-linked-list-elements/ TODO: Solve the problem
+ - 🟢 0203 Remove Linked List Elements https://leetcode.com/problems/remove-linked-list-elements/ TODO: Solve the problem
  - 0206 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/
  - 0217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
  - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram/
