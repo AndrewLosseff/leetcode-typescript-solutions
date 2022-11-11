@@ -40,7 +40,7 @@ Difficulty level:
  - 0206 Reverse Linked List https://leetcode.com/problems/reverse-linked-list/
  - 📺🟢 0217 Contains Duplicate https://leetcode.com/problems/contains-duplicate/
  - 0234 Palindrome Linked List https://leetcode.com/problems/palindrome-linked-list/
- - ⭕️🟠 0238 Product of Array Except Self https://leetcode.com/problems/product-of-array-except-self/
+ - 🟠 0238 Product of Array Except Self https://leetcode.com/problems/product-of-array-except-self/
  - 0242 Valid Anagram https://leetcode.com/problems/valid-anagram/
  - 0283 Move Zeroes https://leetcode.com/problems/move-zeroes/
  - 0344 Reverse String https://leetcode.com/problems/reverse-string/
