@@ -20,7 +20,8 @@ Difficulty level:
 
 ## List of problems 
 
- - 0001 Two Sum https://leetcode.com/problems/two-sum/
+ - 0001 🟢 Two Sum https://leetcode.com/problems/two-sum/
+ - ⭕️🟠 003 Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
  - 0013 Roman to Integer https://leetcode.com/problems/roman-to-integer/
  - 📺🟢 0014 Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
  - ⭕️ 0021 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
