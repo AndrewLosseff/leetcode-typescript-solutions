@@ -32,6 +32,7 @@ Difficulty level:
  - ⭕️🟢 0070 Climbing Stairs https://leetcode.com/problems/climbing-stairs/
  - 🟢 0075 Sort Colors https://leetcode.com/problems/sort-colors/
  - 0088 Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/
+ - ⭕️🟢 0118 Pascal's Triangle https://leetcode.com/problems/pascals-triangle/
  - 0121 Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
  - 0125 Valid Palindrome https://leetcode.com/problems/valid-palindrome/ 
  - ⭕️🟠 0167 Two Sum II - Input Array Is Sorted https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
