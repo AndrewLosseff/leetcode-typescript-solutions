@@ -14,3 +14,7 @@ test('s1 = "ab", s2 = "eidbaooo"', () => {
 test('s1 = "ab", s2 = "eidboaoo"', () => {
   expect(checkInclusion("ab", "eidboaoo")).toEqual(false)
 });
+
+test('s1 = "abc", s2 = "bbbca"', () => {
+  expect(checkInclusion("abc", "bbbca")).toEqual(true)
+});
