@@ -56,6 +56,7 @@ Difficulty level:
  - 0605 Can Place Flowers https://leetcode.com/problems/can-place-flowers/
  - ⭕️🟠 0665 Non-decreasing Array https://leetcode.com/problems/non-decreasing-array/
  - 0704 Binary Search https://leetcode.com/problems/binary-search/
+ - ⭕️🟢 1189 Maximum Number of Balloons https://leetcode.com/problems/maximum-number-of-balloons/
  - 1290 Convert Binary Number in a Linked List to Integer https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
  - 1299 Replace Elements with Greatest Element on Right Side https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
  - ⭕️🟢 1474 Delete N Nodes After M Nodes of a Linked List https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/
