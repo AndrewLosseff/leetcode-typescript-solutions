@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/utils/ConvertArrayToLinkedList.test --watch
+// yarn jest src/leetcode/utils/ConvertArrayToLinkedList.test --watch
 
 import { arrayToList } from './ConvertArrayToLinkedList'
 
