@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/leetcode/leetcodeExplore/arrays101/04-DuplicateZeros --watch
+// yarn jest src/leetcodeExplore/arrays101/04-DuplicateZeros --watch
 import { duplicateZeros } from './index'
 
 test('Duplicate Zeros', () => {

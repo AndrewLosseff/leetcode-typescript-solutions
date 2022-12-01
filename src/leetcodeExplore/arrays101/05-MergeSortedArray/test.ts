@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/leetcode/leetcodeExplore/arrays101/05-MergeSortedArray --watch
+// yarn jest src/leetcodeExplore/arrays101/05-MergeSortedArray --watch
 import { merge } from './index'
 
 test('Merge Sorted Array', () => {

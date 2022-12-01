@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/leetcode/leetcodeExplore/arrays101/03-SquaresofaSortedArray --watch
+// yarn jest src/leetcodeExplore/arrays101/03-SquaresofaSortedArray --watch
 import { sortedSquares } from './index'
 
 test('Squares of a Sorted Array', () => {

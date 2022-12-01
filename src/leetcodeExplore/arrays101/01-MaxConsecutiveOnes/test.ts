@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/leetcode/leetcodeExplore/arrays101/01-MaxConsecutiveOnes --watch
+// yarn jest src/leetcodeExplore/arrays101/01-MaxConsecutiveOnes --watch
 import { findMaxConsecutiveOnes } from './index'
 
 test('Max Consecutive Ones', () => {

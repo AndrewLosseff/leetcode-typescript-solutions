@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/leetcode/leetcodeExplore/arrays101/02-FindNumberswithEvenNumberofDigits --watch
+// yarn jest src/leetcodeExplore/arrays101/02-FindNumberswithEvenNumberofDigits --watch
 import { findNumbers } from './index'
 
 test('Find Numbers with Even Number of Digits', () => {
