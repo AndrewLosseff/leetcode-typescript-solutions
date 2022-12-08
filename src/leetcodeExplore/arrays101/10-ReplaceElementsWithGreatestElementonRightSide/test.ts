@@ -2,7 +2,7 @@
 // yarn jest src/leetcodeExplore/arrays101/10-ReplaceElementsWithGreatestElementonRightSide --watch
 import { replaceElements } from './index'
 
-test('Check If N and Its Double Exist', () => {
+test('Replace Elements With Greatest Element on Right Side', () => {
   expect(replaceElements).toBeDefined();
 });
 

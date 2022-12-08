@@ -2,7 +2,7 @@
 // yarn jest src/leetcodeExplore/arrays101/09-ValidMountainArray --watch
 import { validMountainArray } from './index'
 
-test('Check If N and Its Double Exist', () => {
+test('Valid Mountain Array', () => {
   expect(validMountainArray).toBeDefined();
 });
 
