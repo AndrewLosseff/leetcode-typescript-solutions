@@ -1,5 +1,5 @@
 // There are some solutions for the problem
-// #1 
+// #1 Time: O(n^2) Space: O(1)
 export function removeDuplicates(nums: number[]): number {
 
     for (let i = 0; i < nums.length; i++) {
@@ -16,7 +16,7 @@ export function removeDuplicates(nums: number[]): number {
 };
 
 
-// #2
+// #2 Time: O(n) Space: O(1)
 export function removeDuplicates(nums: number[]): number {
 
     let count = 1
