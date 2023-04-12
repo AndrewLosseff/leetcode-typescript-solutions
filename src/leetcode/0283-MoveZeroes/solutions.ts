@@ -1,5 +1,5 @@
 // There are some solutions for the problem
-// #1
+// #1 Time: O(n^2) Space: O(1)
 export function moveZeroes(nums: number[]) {
 
     let count = 0
