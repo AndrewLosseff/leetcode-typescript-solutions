@@ -31,6 +31,7 @@ Difficulty level:
  - 🟢 0049 Group Anagrams https://leetcode.com/problems/group-anagrams/
  - 🟢 0058 Length of Last Word https://leetcode.com/problems/length-of-last-word/
  - ⭕️🟢 0070 Climbing Stairs https://leetcode.com/problems/climbing-stairs/
+ - 🟢 0074 Find Pivot Index https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1
  - 🟢 0075 Sort Colors https://leetcode.com/problems/sort-colors/
  - 0088 Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/
  - ⭕️🟢 0118 Pascal's Triangle https://leetcode.com/problems/pascals-triangle/
