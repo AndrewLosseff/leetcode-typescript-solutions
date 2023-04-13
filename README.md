@@ -60,6 +60,7 @@ Difficulty level:
  - ⭕️🟢 1189 Maximum Number of Balloons https://leetcode.com/problems/maximum-number-of-balloons/
  - 1290 Convert Binary Number in a Linked List to Integer https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
  - 1299 Replace Elements with Greatest Element on Right Side https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+ - 🟢 1480 Running Sum of 1d Array https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1
  - ⭕️🟢 1474 Delete N Nodes After M Nodes of a Linked List https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/
  
 ## LeetCode Explore
