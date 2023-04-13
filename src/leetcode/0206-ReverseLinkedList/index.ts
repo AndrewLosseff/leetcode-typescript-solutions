@@ -1,5 +1,5 @@
-import { ListNode, arrayToList } from "../utils/ConvertArrayToLinkedList";
-import { convertLinkedListToArray } from "../utils/ConvertLinkedListToArray";
+import { ListNode, arrayToList } from "../../utils/ConvertArrayToLinkedList";
+import { convertLinkedListToArray } from "../../utils/ConvertLinkedListToArray";
 
 export function reverseList(arr): number[] {
     // Helper function to convert arr to Linkes List
