@@ -1,5 +1,5 @@
 // To run test use this:
-// yarn jest src/leetcode/0074-FindPivotIndex --watch
+// yarn jest src/leetcode/0724-FindPivotIndex --watch
 import { pivotIndex } from './index'
 
 test('Find Pivot Index', () => {

@@ -31,7 +31,6 @@ Difficulty level:
  - 🟢 0049 Group Anagrams https://leetcode.com/problems/group-anagrams/
  - 🟢 0058 Length of Last Word https://leetcode.com/problems/length-of-last-word/
  - ⭕️🟢 0070 Climbing Stairs https://leetcode.com/problems/climbing-stairs/
- - 🟢 0074 Find Pivot Index https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1
  - 🟢 0075 Sort Colors https://leetcode.com/problems/sort-colors/
  - 0088 Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/
  - ⭕️🟢 0118 Pascal's Triangle https://leetcode.com/problems/pascals-triangle/
@@ -58,10 +57,11 @@ Difficulty level:
  - 0605 Can Place Flowers https://leetcode.com/problems/can-place-flowers/
  - ⭕️🟠 0665 Non-decreasing Array https://leetcode.com/problems/non-decreasing-array/
  - 0704 Binary Search https://leetcode.com/problems/binary-search/
+ - 🟢 0724 Find Pivot Index https://leetcode.com/problems/find-pivot-index
  - ⭕️🟢 1189 Maximum Number of Balloons https://leetcode.com/problems/maximum-number-of-balloons/
  - 1290 Convert Binary Number in a Linked List to Integer https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
  - 1299 Replace Elements with Greatest Element on Right Side https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
- - 🟢 1480 Running Sum of 1d Array https://leetcode.com/problems/running-sum-of-1d-array/?envType=study-plan&id=level-1
+ - 🟢 1480 Running Sum of 1d Array https://leetcode.com/problems/running-sum-of-1d-array
  - ⭕️🟢 1474 Delete N Nodes After M Nodes of a Linked List https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/
  - 1929🟢 Concatenation of Array https://leetcode.com/problems/concatenation-of-array/
  
